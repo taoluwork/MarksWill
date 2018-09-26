@@ -3,6 +3,10 @@ Tao Lu
 Landry Matthews
 Miles Vesper
 
+Description:
+This project is build with truffle framework and testes using a front end. When test on testrpc, you can access the UI in browser.
+
+
 
 Update history:
 I was able to send transaction to the Contract and add fund through the addFund () payable function.
