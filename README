@@ -1,11 +1,11 @@
 Author list:
-Tao Lu
+Tao Lu (tlu4@lsu.edu)
 Landry Matthews
 Miles Vesper
 
 Description:
 This project is build with truffle framework and testes using a front end. When test on testrpc, you can access the UI in browser.
-
+The design is simple, when Mr. Mark makes the will, he deposit some money and give two password to his lawyer and his son. If his son can finish his colledge he can claim the money by asking the lawyer for another part of the password. If due date was passed, the money will be withdrew by the lawyer.
 
 
 Update history:
